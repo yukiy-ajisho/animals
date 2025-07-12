@@ -3,3 +3,5 @@ blue
 scout
 rocket
 stevie chicken
+Monty
+Mocha
